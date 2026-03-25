@@ -2,7 +2,7 @@
 
 👨‍🎓Student at [Full Sail University](https://hello.fullsail.edu) pursuing a [bachelors degree in Cybersecurity](https://www.fullsail.edu/degrees/cybersecurity-bachelor-degree-program).
 <br>👾Cybersecurity gadget enthusiast. (Pwnagotchi, ESP32, BW16, Flipper Zero, etc.)
-<br>😷Online Privacy Rights Advocate.
+<br>😷Privacy Rights Advocate.
 <br><a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/lx3YvQYEQ+1jFZD7VrEBNw.png">
 </a>
